@@ -1,0 +1,11 @@
+x_start y_start
+x_goal y_goal
+x_pit y_pit
+
+grid
+
+
+******************
+Notes:
+1. In grid, 1: wall | 0: space
+2. You can add multiple pits / goals
